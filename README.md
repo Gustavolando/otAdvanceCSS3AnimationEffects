@@ -1,10 +1,10 @@
 ## Advance CSS3 Animation Effects
 
-Here is an advance exercise I made a while ago using the amazing Online Tutorials [videos](https://www.youtube.com/watch?v=ib8AYFCZtdk)
+Here is an advanced exercise I made a while ago using the amazing Online Tutorials [videos](https://www.youtube.com/watch?v=ib8AYFCZtdk)
 
 Believe it or not, this is pure HTML and CSS ONLY!!
 
-I practiced here the -webkit-box-reflect CSS property and a very simple animation properties like rotation and box-shadows in an elegant and creative way.
+I practiced here the -webkit-box-reflect CSS property and a very simple animation properties like rotation and box-shadow in an elegant and creative way.
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otAdvanceCSS3AnimationEffects/) !
 
